@@ -178,3 +178,4 @@ data/CER.2024.*
 
 # checkpoints do Jupyter
 .ipynb_checkpoints/
+notebooks/sits-map.html
